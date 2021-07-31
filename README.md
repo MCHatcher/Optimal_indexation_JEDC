@@ -1,0 +1,3 @@
+# Optimal_indexation_JEDC
+Replication codes for Hatcher (2014, JEDC)
+This repository provides replication codes for Hatcher (2014), Indexed versus nominal government debt under inflation and price-level targeting, Journal of Economic Dynamics and Control 45(C), 126-45. Available at https://www.sciencedirect.com/science/article/pii/S0165188914001353. The codes are written in Matlab and utilize Dynare++ for a large number of stochastic simulations. All codes for the main analysis are included; codes for the additional parameter sensitivity analysis are available on request (m.c.hatcher@soton.ac.uk).
